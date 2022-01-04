@@ -2,7 +2,6 @@ package com.amir;
 
 import java.io.IOException;
 import java.time.LocalDateTime;
-import java.util.Date;
 
 public class App
 {
